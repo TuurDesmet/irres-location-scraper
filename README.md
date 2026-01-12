@@ -1,1 +1,0 @@
-# irres-location-scraper
