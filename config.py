@@ -1,3 +1,5 @@
+# ===== irres-location-scraper ======
+
 """
 Configuration for IRRES Location Scraper
 """
